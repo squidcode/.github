@@ -15,7 +15,6 @@
 | [Forever](https://forever.squidcode.com/) | Persistent cross-session and cross-machine memory system for Claude |
 | [CyberTank](https://cybertank.squidcode.com/) | Programmable, AI-controllable, self-improving competitive tank game — for humans and AIs |
 | [MultiSlack](https://multislack.net/) | Nine Slack workspaces. One window |
-| [max4.live](https://max4.live/) | Fuzzy search across 14,000+ Max for Live devices |
 
 ### Streaming tools (with [Neon Void](https://neonvoid.com/))
 
@@ -26,6 +25,7 @@
 | [RaidRunner](https://raidrunner.net/) | Event scheduler for streamers with a realtime API |
 | [HyperTrain](https://hypertrain.app/) | Donation hype trains for streamers |
 | [HAL 8580](https://hal8580.com/) | AI Twitch chat bot for streamers |
+| [max4.live](https://max4.live/) | Fuzzy search across 14,000+ Max for Live devices |
 
 ## Open Source
 
