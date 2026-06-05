@@ -16,7 +16,7 @@
 | [CyberTank](https://cybertank.squidcode.com/) | Programmable, AI-controllable, self-improving competitive tank game — for humans and AIs |
 | [MultiSlack](https://multislack.net/) | Nine Slack workspaces. One window |
 
-### Streaming tools (with [Neon Void](https://neonvoid.com/))
+### Streaming tools
 
 | Product | What it does |
 |---|---|
